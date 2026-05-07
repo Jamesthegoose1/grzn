@@ -1,2 +1,2 @@
 # grzn
-grzn - *the* package manager
+grzn - ** *the* ** package manager
